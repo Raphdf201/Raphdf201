@@ -1,4 +1,4 @@
-Random stats from [This site](https://gh-stats-gen.vercel.app/)
+Random stats from [this site](https://gh-stats-gen.vercel.app/)
 
 ![raphdf201's Stats](https://github-readme-stats.vercel.app/api?username=raphdf201&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
