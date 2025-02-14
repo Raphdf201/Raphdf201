@@ -8,5 +8,7 @@ Random stats from [this site](https://gh-stats-gen.vercel.app/)
 
 My sites :
 [pythonanywhere](https://raphdf201.pythonanywhere.com/)
+
 [github pages](https://raphdf201.github.io/)
-[my home sometimes](65.94.124.146 )
+
+[my home sometimes](https://raphdf.ddns.net)
